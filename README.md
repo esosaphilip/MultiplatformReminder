@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\User\Downloads\My first design 2 (1).png" alt="App Logo">
+  <img src="readmeImage/My first design 2.png" alt="App Logo">
 </p>
 
 # MultiplatformReminder
